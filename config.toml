@@ -23,3 +23,6 @@ enableEmoji=true
 
 [params.sidebar]
   logo = "images/icon-full.png"
+  
+[markup.goldmark.renderer]
+  unsafe = true

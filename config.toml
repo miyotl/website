@@ -1,0 +1,25 @@
+baseURL = "https://proyecto-miyotl.web.app/"
+languageCode = "es-mx"
+title = "Proyecto Miyotl"
+theme = "personal-web"
+copyright="© Gabriel Rodríguez y Proyecto Miyotl"
+enableEmoji=true
+
+[params.intro]
+  main = "Miyotl App"
+  sub = "App que busca rescatar las lenguas indígenas"
+
+[params.main]
+  latestPublishHeader = " "
+
+[params.social]
+  facebook = "https://www.facebook.com/MiyotlApp"
+  twitter = "https://twitter.com/MiyotlApp"
+  instagram = "https://www.instagram.com/miyotl.app"
+  
+[params.contact]
+  email = "miyotl@googlegroups.com"
+  text= "Mándanos un correo ✉️"
+
+[params.sidebar]
+  logo = "images/icon-full.png"

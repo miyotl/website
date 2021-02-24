@@ -16,6 +16,7 @@ enableEmoji=true
   facebook = "https://www.facebook.com/MiyotlApp"
   twitter = "https://twitter.com/MiyotlApp"
   instagram = "https://www.instagram.com/miyotl.app"
+  github = "https://github.com/miyotl"
   
 [params.contact]
   email = "miyotl@googlegroups.com"

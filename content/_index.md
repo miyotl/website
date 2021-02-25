@@ -1,5 +1,6 @@
 ---
 title: Miyotl App
+description: App que busca preservar las lenguas indígenas
 ---
 
 # Prerregistro

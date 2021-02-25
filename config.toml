@@ -36,10 +36,10 @@ enableEmoji=true
 
 [menu]
 
-[[menu.main]]
-  identifier = "acerca"
-  name = "Conoce al equipo"
-  title = "Conoce al equipo"
-  url = "/acerca/"
-  weight = 1
+# [[menu.main]]
+#   identifier = "acerca"
+#   name = "Conoce al equipo"
+#   title = "Conoce al equipo"
+#   url = "/acerca/"
+#   weight = 1
 

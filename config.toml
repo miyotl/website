@@ -9,6 +9,11 @@ enableEmoji=true
   main = "Miyotl App"
   sub = "App que busca preservar las lenguas indígenas"
 
+[params.notFound]
+  gopher = "/images/ajolote-triste.png"
+  h1 = 'Página no encontrada :('
+  p = "Esta página no existe o está en construcción..."
+
 [params.main]
   latestPublishHeader = " "
 

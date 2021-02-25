@@ -109,12 +109,12 @@ datos durante dos años.
 
 Por favor contáctenos en <miyotl@googlegroups.com> para:
 
-Ej. Colaborar en las pruebas emitidas por el equipo interno de
+* Ej. Colaborar en las pruebas emitidas por el equipo interno de
 HUEHUETLAHTOLLI, investigación de nuevos métodos de aprendizaje, pruebas
 de versiones beta, comentarios sobre el sentir de usted hacia el
 proyecto...
 
-Solicite más información sobre las actividades de investigación para las
+* Solicite más información sobre las actividades de investigación para las
 que se ha ofrecido.
 
-Optar por no ser contactado para actividades de investigación.
+* Optar por no ser contactado para actividades de investigación.

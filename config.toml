@@ -33,7 +33,8 @@ enableEmoji=true
 
 [[menu.main]]
   identifier = "acerca"
-  name = "Acerca"
+  name = "Conoce al equipo"
   title = "Conoce al equipo"
   url = "/acerca/"
-  weight = -120
+  weight = 1
+

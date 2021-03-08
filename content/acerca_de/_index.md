@@ -6,10 +6,10 @@ title: Créditos de la app
 
 ## Fundadores, y actual mesa directiva
 
-Luis Emilio Álvarez Herrera
-Gabriel Ricardo Rodríguez Castillo
-Diego Armando Hernández Ramos
-Daniela García Madrigal
+* Luis Emilio Álvarez Herrera
+* Gabriel Ricardo Rodríguez Castillo
+* Diego Armando Hernández Ramos
+* Daniela García Madrigal
 
 ## Programación
 
@@ -23,10 +23,10 @@ Dania Camila Varela Quintero
 
 ## Diseño gráfico, animación y edición de video
 
-Dania Camila Varela Quintero
-Adal Eduardo Pérez Sánchez
-Areli Buendía Corona
-Oseas Herrera Flores
+* Dania Camila Varela Quintero
+* Adal Eduardo Pérez Sánchez
+* Areli Buendía Corona
+* Oseas Herrera Flores
 
 ## Director ejecutivo
 
@@ -42,8 +42,8 @@ Diego Armando Hérnandez Ramos
 
 ## Mixteco
 
-Nancy Janeth García Cruz
-Alvarez Altamirano Silvia Maria 
+* Nancy Janeth García Cruz
+* Alvarez Altamirano Silvia Maria 
 
 ## Mazateco
 
@@ -59,16 +59,16 @@ Bonifacio Rodríguez Peralta
 
 ## Otomí
 
-Almaraz Peña Miriam Daelyn 
-Serapio González Remedios
-Elizabeth Apolinar Caballero
-María de la Luz Hipólito Luciano 
+* Almaraz Peña Miriam Daelyn 
+* Serapio González Remedios
+* Elizabeth Apolinar Caballero
+* María de la Luz Hipólito Luciano 
 
 ## Zapoteco
 
-Isaac Antonio Cruz	
-Yaira Gomez Hernandez 
-Yesenia Santiago Gómez 
+* Isaac Antonio Cruz	
+* Yaira Gomez Hernandez 
+* Yesenia Santiago Gómez 
 
 ## Chinanteco
 
@@ -83,8 +83,9 @@ Luis Angel Huchin Balan
 Luis Ignacio Gómez Díaz 
 
 ## Náhuatl
-Norma Chino Melchor 
-Diego Armando Hernández Ramos
+
+* Norma Chino Melchor 
+* Diego Armando Hernández Ramos
 
 ## Chocholteco
 

@@ -11,7 +11,9 @@ description: App que busca preservar las lenguas indígenas
 
 ## ¿Cómo puedo descargar la app en mi celular con Android?
 
-La app estará disponible en la Play Store a más tardar en dos semanas. El tiempo de espera es más de lo normal debido a la pandemia del COVID-19. Les pedimos paciencia por favor...
+En la Play Store: ¡solo busca Miyotl o haz clic [aquí](https://play.google.com/store/apps/details?id=org.miyotl)!
+
+O si tienes Huawei, busca Miyotl en Huawei App Gallery ;)
 
 ## ¿Cómo puedo descargar la app en mi iPhone?
 

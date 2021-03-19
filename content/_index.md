@@ -3,9 +3,13 @@ title: Miyotl App
 description: App que busca preservar las lenguas indígenas
 ---
 
-# Prerregistro
+# Descarga
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScGNGGxcEJRhkvRFb3amAxowUwA24274kKaOmiRJmA_dSrfdQ/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+[¿Tienes iPhone? Haz clic para prerregistrarte.](https://docs.google.com/forms/d/e/1FAIpQLScGNGGxcEJRhkvRFb3amAxowUwA24274kKaOmiRJmA_dSrfdQ/viewform)
+
+[![Disponible en Play Store](images/google-play-badge.png)](https://play.google.com/store/apps/details?id=org.miyotl)
+
+[![Disponible en Huawei](images/huawei.png)](https://appgallery.cloud.huawei.com/ag/n/app/C103942713?channelId=website&referrer=website&id=4ee69b02dc534f43b21a27d91f86fb60&s=600B6CDB46042B4E9E0D47333B46F6FD46D10C56855FB900AB908E2FE3BB5A74&detailType=0&v=)
 
 # Preguntas frecuentes
 

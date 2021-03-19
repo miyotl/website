@@ -7,7 +7,7 @@ enableEmoji=true
 
 [params.intro]
   main = "Miyotl App"
-  sub = "App que busca preservar las lenguas indígenas"
+  sub = "App que busca preservar las lenguas mexicanas"
 
 [params.notFound]
   gopher = "/images/ajolote-triste.png"

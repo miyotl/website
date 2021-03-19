@@ -1,4 +1,4 @@
-baseURL = "https://proyecto-miyotl.web.app/"
+baseURL = "/"
 languageCode = "es-mx"
 title = "Proyecto Miyotl"
 theme = "personal-web"

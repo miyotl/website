@@ -1,6 +1,6 @@
 ---
 title: Miyotl App
-description: App que busca preservar las lenguas indígenas
+description: App que busca preservar las lenguas mexicanas
 ---
 
 # Descarga
@@ -33,13 +33,13 @@ La app estará disponible en la App Store en un tiempo próximo, sin definir aú
 
  a) el fomento de la lectura, 📚
 
-b) adopción de una lengua indígena👩‍🏫 y 
+b) adopción de una lengua mexicana👩‍🏫 y 
 
 c) ofrece una base de datos sobre el legado de nuestras culturas.🎭📖
 
 ## ¿Por qué Miyotl?
 
-📚Las lenguas indígenas aportan conocimientos y formas nuevas de comprender el mundo; ayudan a fomentar la paz y el desarrollo sostenible. 
+📚Las lenguas mexicanas aportan conocimientos y formas nuevas de comprender el mundo; ayudan a fomentar la paz y el desarrollo sostenible. 
 
 Potencian la protección de los derechos humanos y las libertades de los pueblos. 
 

@@ -24,7 +24,7 @@ enableEmoji=true
   github = "https://github.com/miyotl"
   
 [params.contact]
-  email = "miyotl@googlegroups.com"
+  email = "mesa@miyotl.org"
   text = "Mándanos un correo ✉️"
 
 [params.sidebar]

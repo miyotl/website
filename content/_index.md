@@ -47,4 +47,4 @@ Para su conservación, debe hacerse la distinción de que el hablante es más im
 
 ## Algo más
 
-¡Contáctanos en <miyotl@googlegroups.com>!
+¡Contáctanos en <mesa@miyotl.org>!

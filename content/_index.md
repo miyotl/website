@@ -3,6 +3,10 @@ title: Miyotl App
 description: App que busca preservar las lenguas mexicanas
 ---
 
+[Consulta nuestra política de privacidad](/privacidad)
+
+[Únete a nuestro servidor de Discord :D](https://discord.gg/98RUGCq)
+
 # Descarga
 
 [¿Tienes iPhone? Haz clic para prerregistrarte.](https://docs.google.com/forms/d/e/1FAIpQLScGNGGxcEJRhkvRFb3amAxowUwA24274kKaOmiRJmA_dSrfdQ/viewform)

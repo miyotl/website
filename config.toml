@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "es-mx"
 title = "Proyecto Miyotl"
 theme = "personal-web"
-copyright = "© Gabriel Rodríguez y Proyecto Miyotl"
+copyright = "©Proyecto Miyotl"
 enableEmoji=true
 
 [params.intro]
@@ -21,7 +21,9 @@ enableEmoji=true
   facebook = "https://www.facebook.com/MiyotlApp"
   twitter = "https://twitter.com/MiyotlApp"
   instagram = "https://www.instagram.com/miyotl.app"
+  youtube = "https://www.youtube.com/channel/UC1xNNKPlRotin_aJ1kW2pkQ"
   github = "https://github.com/miyotl"
+  discord = "https://discord.gg/98RUGCq"
   
 [params.contact]
   email = "mesa@miyotl.org"

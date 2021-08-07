@@ -4,15 +4,15 @@ title: Términos y condiciones del servicio
 
 ## 1.  General
 
-Los sitios web de HUEHUETLAHTOLLI (\"Sitios web\") y las aplicaciones
+Los sitios web de Miyotl (\"Sitios web\") y las aplicaciones
 móviles (\"Aplicaciones\") y los servicios relacionados (junto con los
-Sitios web, el \"Servicio\") son operados por PROYECTO HUEHUETLAHTOLLI
-(\"HUEHUETLAHTOLLI\", \"miyotl\" o \"nosotros\"). El acceso y uso del
+Sitios web, el \"Servicio\") son operados por PROYECTO Miyotl
+(\"Miyotl\", \"miyotl\" o \"nosotros\"). El acceso y uso del
 Servicio está sujeto a los siguientes Términos y Condiciones del
 Servicio (\"Términos y Condiciones\"). Al acceder o utilizar cualquier
 parte del Servicio, usted declara que ha leído, entendido y acepta estar
 sujeto a estos Términos y Condiciones, incluidas las modificaciones
-futuras. HUEHUETLAHTOLLI puede modificar, actualizar o cambiar estos
+futuras. Miyotl puede modificar, actualizar o cambiar estos
 Términos y Condiciones. Si lo hacemos, publicaremos un aviso de que
 hemos realizado cambios en estos Términos y Condiciones en los Sitios
 web durante al menos 7 días después de que se publiquen los cambios e
@@ -42,10 +42,10 @@ a\. Registro
 
 En relación con el registro y el uso del Servicio, usted acepta (i)
 proporcionar información precisa, actual y completa sobre usted y/o su
-organización según lo solicitado por HUEHUETLAHTOLLI; (ii) para mantener
+organización según lo solicitado por Miyotl; (ii) para mantener
 la confidencialidad de su contraseña y otra información relacionada con
 la seguridad de su cuenta; (iii) mantener y actualizar de inmediato
-cualquier información de registro que proporcione a HUEHUETLAHTOLLI,
+cualquier información de registro que proporcione a Miyotl,
 para mantener dicha información precisa, actualizada y completa; y (iv)
 ser totalmente responsable de todo el uso de su cuenta y de cualquier
 acción que tenga lugar a través de su cuenta.
@@ -55,7 +55,7 @@ b\. Envíos de COLABORADORES
 Si usted es o se convierte en colaborador, puede ofrecer traducir o
 haber traducido ciertas acciones (cursos, literatura, servicios)
 existentes a otros idiomas y puede ofrecer contribuir con nuevas
-acciones al Servicio, según lo acordado entre usted y HUEHUETLAHTOLLI
+acciones al Servicio, según lo acordado entre usted y Miyotl
 caso por caso. Sujeto a las pautas publicadas en el Servicio, usted
 puede realizar dichas traducciones o crear dichas acciones de acuerdo
 con su propio horario y utilizando sus propias instalaciones y recursos.
@@ -65,11 +65,11 @@ Usted reconoce que no desea y no recibirá compensación por sus
 actividades como Colaborador de acciones o por el uso que hagamos de
 cualquier Material de Colaborador de acciones (como se define a
 continuación) que envíe. Cualquier traducción de una acción de
-HUEHUETLAHTOLLI existente que envíe o haya enviado y cualquier acción de
+Miyotl existente que envíe o haya enviado y cualquier acción de
 idioma nuevo que envíe o haya enviado como Colaborador de acciones
 (colectivamente, \"Materiales del Colaborador de acciones\") es
 propiedad de usted (sujeto, por supuesto, a que conservemos la propiedad
-de acción huehuetlahtolli existente que tradujo). Al enviar cualquier
+de acción Miyotl existente que tradujo). Al enviar cualquier
 Material de Colaborador de acciones, usted nos otorga una licencia
 totalmente pagada y mundial, no exclusiva, libre de regalías, perpetua y
 sublicenciable para reproducir, mostrar, realizar, modificar, crear
@@ -81,7 +81,7 @@ c\. Contenido general
 Como condición para enviar cualquier calificación, reseña, información,
 datos, texto, fotografías, clips de audio, obras audiovisuales,
 traducciones, tarjetas u otros materiales en los Servicios
-(\"Contenido\"), por la presente otorga a HUEHUETLAHTOLLI una licencia
+(\"Contenido\"), por la presente otorga a Miyotl una licencia
 libre de regalías, perpetua, irrevocable, mundial, no exclusiva,
 transferible y sublicenciable para usar, reproducir, copiar, adaptar,
 modificar, fusionar, exhibir públicamente, crear obras derivadas de
@@ -89,15 +89,15 @@ sublicenciar a través de varios niveles del Contenido y reconoce que
 esta licencia no puede ser terminada por usted una vez que su Contenido
 se envía a los Servicios. Usted declara que es propietario o ha
 garantizado todos los derechos legales necesarios para que el Contenido
-enviado por usted sea utilizado por usted, HUEHUETLAHTOLLI y otros, tal
+enviado por usted sea utilizado por usted, Miyotl y otros, tal
 como se describe y se contempla en estos Términos y Condiciones. Usted
 entiende que otros usuarios tendrán acceso al Contenido y que ni ellos
-ni HUEHUETLAHTOLLI tienen ninguna obligación con usted ni con nadie de
+ni Miyotl tienen ninguna obligación con usted ni con nadie de
 mantener la confidencialidad del Contenido.
 
 ## 4.  Sus representaciones y garantías
 
-Usted declara y garantiza a HUEHUETLAHTOLLIS que su acceso y uso del
+Usted declara y garantiza a MiyotlS que su acceso y uso del
 Servicio se realizará de acuerdo con estos Términos y Condiciones y con
 todas las leyes, reglas y regulaciones aplicables de los ESTADOS UNIDOS
 MEXICANOS y cualquier otra jurisdicción relevante, incluidas las
@@ -129,7 +129,7 @@ acosador, odioso, ofensivo o violado de cualquier otra manera cualquier
 ley o infrinja el derecho de cualquier tercero (incluyendo derechos de
 autor, marca registrada, privacidad, publicidad u otros derechos
 personales o de propiedad); o (ii) a juicio exclusivo de
-HUEHUETLAHTOLLI, es objetable o que restringe o inhibe a cualquier otra
-persona de usar el Servicio o que pueda exponer a HUEHUETLAHTOLLI o a
+Miyotl, es objetable o que restringe o inhibe a cualquier otra
+persona de usar el Servicio o que pueda exponer a Miyotl o a
 sus usuarios a cualquier daño o responsabilidad de cualquier tipo.
 

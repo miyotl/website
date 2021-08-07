@@ -3,8 +3,10 @@ title: Créditos de la app
 ---
 
 *Esta página está en construcción...*
+## Creador
 
-## Fundadores, y actual mesa directiva
+Luis Emilio Álvarez Herrera
+## Fundadores
 
 * Luis Emilio Álvarez Herrera
 * Gabriel Ricardo Rodríguez Castillo
@@ -13,7 +15,13 @@ title: Créditos de la app
 
 ## Programación
 
+Jose Luis Crisostomo Sanchez
+
 Gabriel Ricardo Rodríguez Castillo
+
+Luis Emilio Álvarez Herrera
+
+Matías Fonseca Lazcano
 
 Puedes revisar el código de la app en [GitHub](https://github.com/miyotl/miyotl).
 
@@ -35,6 +43,7 @@ Luis Emilio Álvarez Herrera
 ## Difusión y logística
 
 Daniela García Madrigal
+Luis Emilio Álvarez Herrera
 
 ## Legalidad, términos y condiciones y política de privacidad
 

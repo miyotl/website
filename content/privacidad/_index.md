@@ -4,15 +4,15 @@ title: Política de privacidad
 
 ## General
 
-En HUEHUETLAHTOLLI, nos preocupamos por sus datos personales, por lo que
+En Miyotl, nos preocupamos por sus datos personales, por lo que
 hemos preparado esta Política de privacidad para explicar cómo les
 recopilamos, usamos y compartimos.
 
 Esta Política de privacidad (\"Política de privacidad\") detalla los
-datos personales que PROYECTO HUEHUETLAHTOLLI (\"HUEHUETLAHTOLLI\",
+datos personales que PROYECTO Miyotl (\"Miyotl\",
 \"miyotl\", \"nosotros\" o \"nuestro\") recibe sobre usted, cómo lo
 procesamos y sus derechos y obligaciones en relación con sus datos
-personales PROYECTO HUEHUETLAHTOLLI, UN PROYECTO DE ORIGEN
+personales PROYECTO Miyotl, UN PROYECTO DE ORIGEN
 INDEPENDIENTE, OPERADA EN MEXICO, SIN UBICACIÓN FISICA ESPECIFICA, es el
 controlador de datos a los efectos del Reglamento General de Protección
 de Datos (\"GDPR\") y cualquier legislación local relevante (\" Leyes de
@@ -32,9 +32,9 @@ estos términos en La parte inferior de la Política de privacidad.
 Cualquier revisión de esta Política de privacidad entrará en vigor al
 final de ese período de 7 días.
 
-Si usted es un colaborador, trabajador o asesor de HUEHUETLAHTOLLI, la
+Si usted es un colaborador, trabajador o asesor de Miyotl, la
 información sobre cómo manejamos su información personal está disponible
-en la base de conocimiento interno de HUEHUETLAHTOLLI. Con respecto a
+en la base de conocimiento interno de Miyotl. Con respecto a
 los colaboradores "externos", con sede en Europa, estamos comprometidos
 a cooperar con las autoridades de protección de datos (DPA) de la UE y
 cumplir con el asesoramiento brindado por dichas autoridades con
@@ -52,7 +52,7 @@ A través del proceso de registro, nos proporcionará su nombre, dirección
 de correo electrónico (o la dirección de correo electrónico de los
 padres) y edad o fecha de nacimiento. También nos proporcionará la
 información de su transacción de pago si elige pagar por los servicios
-de HUEHUETLAHTOLLI.
+de Miyotl.
 
 ## Datos de actividad
 
@@ -69,16 +69,16 @@ consulte Cookies.
 Cuando tome una Lección de hablar en vivo, utilizaremos el micrófono de
 su dispositivo durante toda la lección para hablar con su tutor. También
 tiene la opción de usar su cámara para compartir su video con su tutor.
-HUEHUETLAHTOLLI graba estas lecciones de audio y video y las retiene
-hasta que cierre su cuenta HUEHUETLAHTOLLI. HUEHUETLAHTOLLI utiliza
+Miyotl graba estas lecciones de audio y video y las retiene
+hasta que cierre su cuenta Miyotl. Miyotl utiliza
 estos datos para ayudar a mejorar la calidad de las lecciones y para
 fines de investigación interna.
 
-HUEHUETLAHTOLLI no comparte ninguno de sus datos personales con su
+Miyotl no comparte ninguno de sus datos personales con su
 tutor. Usted es completamente anónimo para ellos de manera
 predeterminada, y puede elegir libremente si les muestra su video o les
 dice cualquier detalle personal como su nombre durante la conversación.
-HUEHUETLAHTOLLI solo comparte cierta información básica sobre el nivel
+Miyotl solo comparte cierta información básica sobre el nivel
 de habilidad con el tutor, antes de su lección, para que entiendan la
 mejor manera de hablar con usted y su nombre de usuario.
 
@@ -110,7 +110,7 @@ datos durante dos años.
 Por favor contáctenos en <miyotl@googlegroups.com> para:
 
 * Ej. Colaborar en las pruebas emitidas por el equipo interno de
-HUEHUETLAHTOLLI, investigación de nuevos métodos de aprendizaje, pruebas
+Miyotl, investigación de nuevos métodos de aprendizaje, pruebas
 de versiones beta, comentarios sobre el sentir de usted hacia el
 proyecto...
 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Política de privacidad on Proyecto Miyotl</title>
+    <link>/privacidad/</link>
+    <description>Recent content in Política de privacidad on Proyecto Miyotl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <copyright>©Proyecto Miyotl</copyright><atom:link href="/privacidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Cómo borrar mis datos?</title>
+      <link>/privacidad/borrar_datos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/privacidad/borrar_datos/</guid>
+      <description>Si deseas borrar los datos que tenemos guardados sobre ti, por favor manda un correo a miyotl@googlegroups.com solicitando la eliminación de tus datos desde el correo que usaste para registrarte, o bien manda un mensaje a la página de Facebook https://facebook.com/MiyotlApp.</description>
+    </item>
+    
+  </channel>
+</rss>

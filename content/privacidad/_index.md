@@ -64,7 +64,7 @@ mensajes y de otra manera transmitiendo información a otros usuarios
 interactúa con nuestros Servicios; Para obtener más información,
 consulte Cookies.
 
-## Practica de hablar en vivo.
+## Practica de hablar en vivo
 
 Cuando tome una Lección de hablar en vivo, utilizaremos el micrófono de
 su dispositivo durante toda la lección para hablar con su tutor. También

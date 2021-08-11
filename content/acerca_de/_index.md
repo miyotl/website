@@ -2,10 +2,8 @@
 title: Créditos de la app
 ---
 
-*Esta página está en construcción...*
-## Creador
+*Esta página está en constante actualización...*
 
-Luis Emilio Álvarez Herrera
 ## Fundadores
 
 * Luis Emilio Álvarez Herrera
@@ -15,103 +13,184 @@ Luis Emilio Álvarez Herrera
 
 ## Programación
 
-Jose Luis Crisostomo Sanchez
+* Jose Luis Crisostomo Sanchez
+* Gabriel Ricardo Rodríguez Castillo
+* Luis Emilio Álvarez Herrera
+* Matías Fonseca Lazcano
 
-Gabriel Ricardo Rodríguez Castillo
-
-Luis Emilio Álvarez Herrera
-
-Matías Fonseca Lazcano
-
-Puedes revisar el código de la app en [GitHub](https://github.com/miyotl/miyotl).
+Puedes revisar el código de la app en [GitHub](https://github.com/miyotl/miyotl)
 
 ## Dibujos y diseño del personaje
 
-Dania Camila Varela Quintero
+* Dania Camila Varela Quintero
+* Areli Buendía Corona
+* Brayan Alexander Cid Balderas
 
-## Diseño gráfico, animación y edición de video
+## Diseño gráfico
 
 * Dania Camila Varela Quintero
 * Adal Eduardo Pérez Sánchez
 * Areli Buendía Corona
 * Oseas Herrera Flores
 
+## Animaciones 3d
+
+Brayan Alexander Cid Balderas
+
+## Edición de sonido
+
+* Radio Chapingo
+* Ing. Fernando Efrén Ruiz de la Rosa
+
+## Producción de videos
+
+* Medios Chapingo
+* Urbe Educativa
+* Angel Anuar Ruíz Galindo
+* Gumercindo Orduña Lopez
+* Martín N.
+
 ## Director ejecutivo
 
 Luis Emilio Álvarez Herrera
 
-## Difusión y logística
+## Difusión y contacto
 
-Daniela García Madrigal
-Luis Emilio Álvarez Herrera
+* Daniela García Madrigal
+* Lídice Martínez Aguirre
+* Kathia Liliana Pérez Reyes
+* Esmeralda Ruíz Martínez
+* Luis Emilio Álvarez Herrera
 
-## Legalidad, términos y condiciones y política de privacidad
+## Legalidad
 
 Diego Armando Hérnandez Ramos
 
-## Mixteco
-
-* Nancy Janeth García Cruz
-* Alvarez Altamirano Silvia Maria 
-
-## Mazateco
-
-Anayeli Zaragoza Carrera 
-
-## Mixe
-
-Benjamín Gallardo Cardozo 
-
-## Totonaco
-
-Bonifacio Rodríguez Peralta 
-
-## Otomí
-
-* Almaraz Peña Miriam Daelyn 
-* Serapio González Remedios
-* Elizabeth Apolinar Caballero
-* María de la Luz Hipólito Luciano 
-
-## Zapoteco
-
-* Isaac Antonio Cruz	
-* Yaira Gomez Hernandez 
-* Yesenia Santiago Gómez 
+# De las 68 Voces Floridas:
 
 ## Chinanteco
 
-Heriberto Hernández Ruiz 
-
-## Maya
-
-Luis Angel Huchin Balan
-
-## Tzotzil
-
-Luis Ignacio Gómez Díaz 
-
-## Náhuatl
-
-* Norma Chino Melchor 
-* Diego Armando Hernández Ramos
+Heriberto Hernández Ruiz
 
 ## Chocholteco
 
-Claudia Sanmpedro Andres
+* Adriana Valentina Guzmán Jiménez
+* Claudia Sanmpedro Andres
+* Esperanza Sampedro Andres
+* Agustín Jiménez García
 
-## Mazahua
+## Chontal de Tabasco
 
-Kenia Teresa López López
+Jesús Salvador García
 
-## Tarahumara (grupo Rarámuri)
+## Chol
 
-Nombres pendientes
+Orlando Díaz Mendez
 
 ## Huichol
 
 Nombres pendientes
 
-## Tzeltal
+## Matlatzinca
+
+Yareli Salazar Jimenez
+
+## Maya
+
+* Luis Angel Huchin Balan
+* Harry Thomass
+
+## Mazahua
+
+Kenia Teresa López López
+
+## Mazateco
+
+Anayeli Zaragoza Carrera
+
+## Mixe
+
+Benjamín Gallardo Cardozo
+
+## Mixteco
+
+* Nancy Janeth García Cruz
+* Alvarez Altamirano Silvia Maria
+
+## Nahuatl
+
+* Norma Chino Melchor
+* Diego Armando Hernández Ramos
+* José Alfredo Aduna Tzapot
+* Veronica Bonilla Vázquez
+* Jesus Yohualli Lopez Javier
+
+## Otomí
+
+* Miriam Daelyn Almaraz Peña
+* Remedios Serapio González
+* Elizabeth Apolinar Caballero
+* María de la Luz Hipólito Luciano
+
+## Tlapaneco
+
+Zochiquetzalt Ramírez Villar
+
+## Totonaco
+
+Bonifacio Rodríguez Peralta
+
+## Tarahumara
 
 Nombres pendientes
+
+## Tepehuano del sur
+
+Flor de Lima Cervantes Aguilar
+
+## Tzeltal
+
+Marco Antonio Giron Entzn
+
+## Tzotzil
+
+Luis Ignacio Gómez Díaz
+
+## Zapoteco
+
+* Isaac Antonio Cruz
+* Yaira Gomez Hernandez
+* Yesenia Santiago Gómez
+
+## Zoque
+
+Miguel Ángel Gómez Gómez
+
+# Convenios
+
+* Proyecto Institucional: Universidad Autónoma Chapingo
+* Ciberseguridad: Asesoría META-SI
+* Red de proyectos Indígenas: AMNLP
+* Ecosistema de IA Indígena: Instituto Politécnico Nacional
+
+# Colaboración
+
+* Ellos son la semilla
+* Kulantu
+
+# Participaciones
+
+* 7o. Coloquio Ambientes Digitales ENALLT
+* Seminario SCyDC: UNAM
+* Guardavoces
+* CERTAMEN IDEA: Fundación Chapingo
+* Certamen a la Innovación en Transparencia 2021: INAI
+* Revista de la Universidad Iberoamericana: IBERO
+
+# Colaboradores
+
+* Universidad Autónoma Chapingo
+* Universidad Nacional de las Lenguas Indígenas
+* Univerisdad Nacional Autónoma de México
+* Instituto Politécnico Nacional
+* ScotiaBank
